@@ -7,7 +7,7 @@
   
   Portfolio - <a href="https://guilhermesantiago.vercel.app">https://guilhermesantiago.vercel.app<a>
 <br>
-  Email - <a href="https://www.gmail.com/">guilherme.limasantiago@gmail.com<a>
+  Email - <a href="https://www.gmail.com/" target="_blank">guilherme.limasantiago@gmail.com<a>
 
 ![GuilhermeSantiago GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermesantiago18&show_icons=true&theme=tokyonight)
 
