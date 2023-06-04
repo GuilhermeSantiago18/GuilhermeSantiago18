@@ -1,4 +1,4 @@
-### Olá, eu sou Guilherme Santiago! ✌️
+### Hello, i'm Guilherme Santiago! ✌️
 
 <p>I'm  a developer who loves big challenges and working with multicultural teams <p>
 
@@ -11,7 +11,7 @@
 
 ![GuilhermeSantiago GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermesantiago18&show_icons=true&theme=tokyonight)
 
-### Tecnologias que utilizo atualmente:
+### Technologies I currently use:
 
 <div>
  
