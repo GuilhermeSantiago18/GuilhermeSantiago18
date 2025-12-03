@@ -9,6 +9,4 @@
 <br>
   Email - <a href="https://www.gmail.com/" target="_blank">guilherme.limasantiago@gmail.com<a>
 
-![GuilhermeSantiago GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermesantiago18&show_icons=true&theme=tokyonight)
-
 
